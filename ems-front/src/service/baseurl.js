@@ -1,0 +1,1 @@
+export const BASE_URL='https://ems-back-ng72.onrender.com'
